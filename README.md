@@ -1,23 +1,44 @@
-# Sales and Finance Analytics for AtliQ Hardware
+## Sales Report :
 
-## Overview
 
-AtliQ Hardware, a leading hardware manufacturing company, faced challenges with fragmented and unorganized sales and finance data spread across multiple Excel files. The solution streamlined their data management, improved decision-making, and identified growth opportunities.
+- **Project objective:** 
 
-## Problem Statement
+    **1.** Create a _[customer performance report]
 
-- **Inefficient Data Retrieval**: Data spread across multiple files resulted in delays in accessing critical information.
-- **Inconsistent Insights**: Lack of reliable, consistent data for decision-making.
-- **Missed Opportunities**: Unable to identify key sales and financial trends and patterns.
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]
 
-## Solution Approach
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-This project leveraged **Power Query**, **Power Pivot**, and **DAX** for transforming and analyzing sales and finance data to provide actionable insights.
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
- # 1️⃣ Data Gathering - Collecting Sales and Finance Data
-# 2️⃣ Data Cleaning and Transformation (Power Query) - Standardizing and Cleaning Data
-# 3️⃣ Data Modeling (Power Pivot) - Defining Relationships Between Tables
-# 4️⃣ Insightful Calculations (DAX) - Key Metrics and Measures
- # 5️⃣ Trend Analysis (DAX) - Analyzing Trends
- # 6️⃣ Reporting - Profit & Loss, Sales Dashboards, Actuals vs. Targets
+- **Role of reports:** Determine effective customer discounts, facilitate consumer negotiations, and identify potential business expansion opportunities in promising countries.
 
+
+## Finance Report :
+
+- **Project objective:** 
+
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] 
+
+   **2.** Create Profit and Loss (P&L) reports by _[Markets]
+
+- **Purpose of sales analytics:** financial performance evaluation, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report-building plan.
